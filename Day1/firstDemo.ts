@@ -1,0 +1,1 @@
+console.log("wecome to Typescript jack bhaiya");    
