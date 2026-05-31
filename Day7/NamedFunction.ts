@@ -47,7 +47,6 @@ AdditionNumbers(1);
 //4 Named function with rest parameter and with multiple data type //no limit for passing parameter and multiple type
 
 function FindElement(...ele:(number | string)[]):number{
-//for(let i=0;i<ele.length;i++)
 return ele.length;
 }
 console.log(FindElement("smith",3 ,"jack",5, "scott",4));  //o/p ==>6
